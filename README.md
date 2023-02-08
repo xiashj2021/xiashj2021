@@ -2,7 +2,7 @@
 I am a student of Lanzhou University.
 #### Now
 - 🌱 I’m currently learning **Data Science**.  
-- 🤔 I’m looking for help with *Machine Learning*, *Deep Learning*, *Game Developing* & *Network Developing*.  
+- 🤔 I’m looking for help with *Machine Learning*, *Deep Learning*, *Game Developing* & *Web Developing*.  
 #### Dream
 - 🔭 I’m currently working on exploring the milky way.  
 - ✨ I love Physics. I desperately want to reach my dream & bring the brightest star for **a *girl* I really love**.
