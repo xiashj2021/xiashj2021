@@ -6,6 +6,11 @@ I am a student of Lanzhou University.
 #### Dream
 - 🔭 I’m currently working on exploring the milky way.  
 - ✨ I love Physics. I desperately want to reach my dream & bring the brightest star for **a *girl* I really love**.
+#### Status
+![SignKirigami's GitHub stats](https://github-readme-stats.vercel.app/api?username=xiashj2021&theme=buefy&show_icons=true)
+
+#### Most Used Languages
+![SignKirigami's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=xiashj2021&layout=compact&show_icons=true&theme=buefy)
 <!--
 **xiashj2021/xiashj2021** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
