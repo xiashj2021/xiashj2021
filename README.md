@@ -13,8 +13,9 @@ I am a student of Lanzhou University.
 </div>
 <br></br>
 <div align="center">
-    <img width='828' src="https://github-readme-activity-graph.cyclic.app/graph?username=xiashj2021&theme=xcode" />
+    <img width='828' src="https://github-readme-activity-graph.cyclic.app/graph?username=xiashj2021&hide_border=true&theme=xcode" />
 </div>
+
 <!--
 ![](https://github-readme-stats.vercel.app/api?username=xiashj2021&theme=cobalt&show_icons=true)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=xiashj2021&layout=compact&show_icons=true&theme=cobalt)
