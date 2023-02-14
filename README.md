@@ -11,6 +11,10 @@ I am a student of Lanzhou University.
 <img width='358' src="https://github-readme-stats.vercel.app/api/top-langs/?username=xiashj2021&hide_title=true&hide_border=true&layout=compact&langs_count=16&theme=cobalt" align="center" />  
 <img height='164' src="https://github-readme-stats.vercel.app/api?username=xiashj2021&hide_title=true&hide_border=true&show_icons=true&theme=cobalt" align="center" />
 </div>
+<br></br>
+<div align="center">
+    <img width='828' src="https://github-readme-activity-graph.cyclic.app/graph?username=xiashj2021&theme=xcode" />
+</div>
 <!--
 ![](https://github-readme-stats.vercel.app/api?username=xiashj2021&theme=cobalt&show_icons=true)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=xiashj2021&layout=compact&show_icons=true&theme=cobalt)
