@@ -8,7 +8,7 @@ I am a student of Lanzhou University.
 - ✨ I love Physics. I desperately want to reach my dream & bring the brightest star for **a *girl* I really love**.
 #### Status
 <div align="left">
-<img height='158' src="https://github-readme-stats.vercel.app/api/top-langs/?username=xiashj2021&layout=compact&langs_count=12&theme=cobalt" align="center" />
+<img height='158' src="https://github-readme-stats.vercel.app/api/top-langs/?username=xiashj2021&layout=compact&langs_count=16&theme=cobalt" align="center" />
 <img height='158' src="https://github-readme-stats.vercel.app/api?username=xiashj2021&show_icons=true&theme=cobalt" align="center" />
 </div>  
 <!--
