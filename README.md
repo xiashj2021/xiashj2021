@@ -14,12 +14,9 @@ I am a student of Lanzhou University.
 <br></br>
 <div align="center">
     <img width='828' src="https://github-readme-activity-graph.cyclic.app/graph?username=xiashj2021&hide_border=true&theme=xcode" />
-    <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/rocket.png"/>
+    <img src="https://github.com/xiashj2021/xiashj2021/blob/main/Image/wallhaven-weeqzx.jpg"/>
 </div>
 <!--
-![](https://github-readme-stats.vercel.app/api?username=xiashj2021&theme=cobalt&show_icons=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=xiashj2021&layout=compact&show_icons=true&theme=cobalt)
-
 **xiashj2021/xiashj2021** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
