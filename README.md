@@ -9,8 +9,6 @@ I am a student of Lanzhou University.
 #### Status
 <div align="left">
 <img height='158' src="https://github-readme-stats.vercel.app/api/top-langs/?username=xiashj2021&layout=compact&langs_count=16&theme=cobalt" align="center" />
-<img height='158' src="https://github-readme-stats.vercel.app/api?username=xiashj2021&show_icons=true&theme=cobalt" align="center" />
-</div>  
 <!--
 ![](https://github-readme-stats.vercel.app/api?username=xiashj2021&theme=cobalt&show_icons=true)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=xiashj2021&layout=compact&show_icons=true&theme=cobalt)
