@@ -10,7 +10,7 @@ I am a student of Lanzhou University.
 ![](https://github.com/xiashj2021/xiashj2021/blob/main/Image/wallhaven-weeqzx.jpg)
 #### Status
 <div align="center">
-    <img width='358' src="https://github-readme-stats.vercel.app/api/top-langs/?username=xiashj2021&hide_title=true&hide_border=true&layout=compact&langs_count=16&theme=cobalt" />  
+    <img height='164' src="https://github-readme-stats.vercel.app/api/top-langs/?username=xiashj2021&hide_title=true&hide_border=true&layout=compact&langs_count=16&theme=cobalt" />  
     <img height='164' src="https://github-readme-stats.vercel.app/api?username=xiashj2021&hide_title=true&hide_border=true&show_icons=true&theme=cobalt" />
 <br></br>
     <img width='828' src="https://github-readme-activity-graph.cyclic.app/graph?username=xiashj2021&hide_border=true&theme=xcode" />
