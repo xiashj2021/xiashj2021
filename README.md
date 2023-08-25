@@ -7,7 +7,7 @@ I am a student of Lanzhou University.
 - 🔭 I’m currently working on exploring the milky way.  
 - ✨ I love Physics. 
   
-![](https://github.com/xiashj2021/xiashj2021/blob/main/Image/wallhaven-weeqzx.jpg)
+![](https://github.com/xiashj2021/xiashj2021/blob/main/Image/27894159.jpg)
 #### Status
 <div align="center">
     <img height='164' src="https://github-readme-stats.vercel.app/api/top-langs/?username=xiashj2021&hide_title=true&hide_border=true&layout=compact&langs_count=10&theme=cobalt" />  
